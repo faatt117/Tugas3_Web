@@ -1,0 +1,75 @@
+/* CSS Kepala */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+    line-height: 1.6;
+    text-align: center;
+  }
+
+  tbody {
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  thead {
+    color: #333;
+    line-height: 1.6;
+  }
+
+  li {
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* CSS Untuk Tombol */
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+
+  /* CSS Untuk Gambar */
+  .image {
+    max-width: 100%;
+    max-height: 100%;
+    height: 100vh;
+    border-radius: 10px;
+  }
+  .image1 {
+    height: 100vh;
+    border-radius: 10px;
+  }
+  
